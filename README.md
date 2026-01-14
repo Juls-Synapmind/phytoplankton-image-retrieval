@@ -1,6 +1,10 @@
 # phytoplankton-image-retrieval
 Image-based phytoplankton identification using vector embeddings and similarity search (Qdrant + CLIP)
 
+## License
+
+This project is released under the Apache License 2.0.
+
 # Phytoplankton Image Retrieval
 
 This project implements an **image-based retrieval system for phytoplankton identification** using deep visual embeddings and a vector database.
