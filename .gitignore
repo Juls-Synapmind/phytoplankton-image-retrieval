@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- Project data (DO NOT COMMIT) ---
+data/images/
+data/metadata.csv
+data/whoi_plankton_raw/
+data/class_list_2014.txt
+data/phytoplankton_classes.txt
